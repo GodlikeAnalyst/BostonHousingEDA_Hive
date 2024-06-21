@@ -30,13 +30,15 @@ A hypothesis test was conducted to investigate the impact of the average number 
 
 ## Key Takeaways:
 
-The average number of rooms per dwelling has a significant impact on the median home value.
+-The average number of rooms per dwelling has a significant impact on the median home value.
 
-Properties near the Charles River tend to be older than those not near the river.
+-Properties near the Charles River tend to be older than those not near the river.
 
-High crime rates are associated with lower property values.
+-High crime rates are associated with lower property values.
 
-Outliers in the data, such as properties with unusually high crime rates, can provide valuable insights but may also skew the analysis.
+-Outliers in the data, such as properties with unusually high crime rates, can provide valuable insights but may also skew the analysis.
+
+
 
 This analysis provides valuable insights into the factors that influence property values in Boston. However, it’s important to note that correlation does not imply causation,
 and further investigation would be needed to determine the causal relationships between these variables. Additionally, the presence of outliers and the distribution of the data
